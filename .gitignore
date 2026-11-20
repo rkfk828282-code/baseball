@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# 분석 산출물·모델·영상은 커밋하지 않음 (개인정보·용량)
+analysis/models/
+analysis/output/
+analysis/videos/
+*.mp4
+*.mov
